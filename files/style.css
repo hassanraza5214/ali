@@ -135,7 +135,7 @@ filter: invert(20%);
     display: block;
     margin: auto;
     cursor: pointer;
-    transition: all .5s ease-in-out;
+    transition: all .5s;
 }
 
 #services .box img:hover{
